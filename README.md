@@ -1,1 +1,2 @@
-# Julia_acc_datascience
+# Juliaではじめる会計でーたさいえんす
+『企業会計』の「Pythonではじめる会計データサイエンス」のコードのJulia版を勝手に作りました。
